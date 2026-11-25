@@ -3,6 +3,8 @@
 Here In this project, we compare different machine learning classification algorithms which will predict whether the customer will agree to create
 to a term deposit based on the finanacial , demographic information.
 
+I choose this dataset because, it can help banks to identify customers, it can improve efficiency and the dataset contains mixture of numerical as well as categorical features.  
+
 The objective is to identify the best machine learning models that can be used for the Bank Marketing Dataset.
 
 ## Dataset : Bank Marketing Dataset
