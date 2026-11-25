@@ -102,3 +102,7 @@ For data preprocessing the following steps were performed :
   </tbody>
 </table>
 </div>
+
+## Conclusion
+
+Random forest achieved the highest Accuracy, MCC, Recall and AUC values among all the other algorithms. Decision tree had over fitting problem but perfomed well .Logistic Regression was fast .In all of the algorthims Naive Bayes had the lowest Accuracy and serverd as a baseline model.
